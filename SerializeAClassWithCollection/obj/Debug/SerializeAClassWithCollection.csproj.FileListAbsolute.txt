@@ -1,0 +1,15 @@
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\bin\Debug\SerializeAClassWithCollection.exe.config
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\bin\Debug\SerializeAClassWithCollection.exe
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\bin\Debug\SerializeAClassWithCollection.pdb
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.csprojResolveAssemblyReference.cache
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\MainWindow.g.cs
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\App.g.cs
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection_MarkupCompile.cache
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection_MarkupCompile.lref
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\MainWindow.baml
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.g.resources
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.Properties.Resources.resources
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.csproj.GenerateResource.cache
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.csproj.CoreCompileInputs.cache
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.exe
+\\data.cv.local\Students\mort959c\Documents\Tilbage på aspit\Project\SerializeAClassWithCollection\obj\Debug\SerializeAClassWithCollection.pdb
